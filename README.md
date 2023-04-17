@@ -1,6 +1,6 @@
 # Game Resources
 
-List of free 3D models and Ressources for games
+List of free 3D models and Resources for games
 
 ## Models
 
