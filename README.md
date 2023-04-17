@@ -8,10 +8,15 @@ List of free 3D models and Ressources for games
 
 - High Poly (interior/engines): https://sketchfab.com/DanielZhabotinsky
 - Mid/Low poly: https://sketchfab.com/Lexyc16
+- Low poly: https://quaternius.com/packs/cars.html
 
 ### Weapons
 
 - Low poly guns: https://sketchfab.com/TastyTony/collections/low-poly-rifles-1bf16fca6f9746f98ea1e83a24b58d94
+
+### Other lists
+
+- Quaternius: https://quaternius.com/
 
 ## Resources
 
