@@ -23,3 +23,7 @@ List of free 3D models and Resources for games
 ### Vehicles
 
 - Car Physics for Games (Marco Monster): https://asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html
+
+### Networking
+
+- Rigidbody Client side prediction: https://www.codersblock.org/blog/client-side-prediction-in-unity-2018
